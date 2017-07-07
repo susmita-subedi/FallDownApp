@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Tue Nov 22 23:09:15 PST 2016
+2.base=C\:\\Users\\susmita\\OneDrive\\android\\AndroidClient (1)\\AndroidClient\\AndroidClient\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\susmita\\OneDrive\\android\\AndroidClient (1)\\AndroidClient\\AndroidClient\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\susmita\\OneDrive\\android\\AndroidClient (1)\\AndroidClient\\AndroidClient\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\susmita\\OneDrive\\android\\AndroidClient (1)\\AndroidClient\\AndroidClient\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=6
+0.file=C\:\\Users\\susmita\\OneDrive\\android\\AndroidClient (1)\\AndroidClient\\AndroidClient\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+5.base=C\:\\Users\\susmita\\OneDrive\\android\\AndroidClient (1)\\AndroidClient\\AndroidClient\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=C\:\\Users\\susmita\\OneDrive\\android\\AndroidClient (1)\\AndroidClient\\AndroidClient\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+1.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\susmita\\OneDrive\\android\\AndroidClient (1)\\AndroidClient\\AndroidClient\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldpi-v4\\background1.jpg
+0.base=C\:\\Users\\susmita\\OneDrive\\android\\AndroidClient (1)\\AndroidClient\\AndroidClient\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\susmita\\OneDrive\\android\\AndroidClient (1)\\AndroidClient\\AndroidClient\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldpi-v4\\icon.png
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\susmita\\OneDrive\\android\\AndroidClient (1)\\AndroidClient\\AndroidClient\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\susmita\\OneDrive\\android\\AndroidClient (1)\\AndroidClient\\AndroidClient\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.set=ANDROID_RESOURCE

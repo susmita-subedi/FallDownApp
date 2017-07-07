@@ -1,0 +1,7 @@
+#Tue Nov 22 23:09:16 PST 2016
+base.0=C\:\\Users\\susmita\\OneDrive\\android\\AndroidClient (1)\\AndroidClient\\AndroidClient\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2beda526ebf4f192d40800403927da75b741fc67
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\susmita\\OneDrive\\android\\AndroidClient (1)\\AndroidClient\\AndroidClient\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_dcfe0ebc65eb137eef9a406acbf79dd3beaa3dbe\\classes.dex
+base.1=C\:\\Users\\susmita\\OneDrive\\android\\AndroidClient (1)\\AndroidClient\\AndroidClient\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_dcfe0ebc65eb137eef9a406acbf79dd3beaa3dbe
+file.0=C\:\\Users\\susmita\\OneDrive\\android\\AndroidClient (1)\\AndroidClient\\AndroidClient\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2beda526ebf4f192d40800403927da75b741fc67\\classes.dex

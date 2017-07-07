@@ -1,0 +1,38 @@
+[
+    {
+        "outputFile": "C:\\Users\\susmita\\OneDrive\\android\\AndroidClient (1)\\AndroidClient\\AndroidClient\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "C:\\Users\\susmita\\OneDrive\\android\\AndroidClient (1)\\AndroidClient\\AndroidClient\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 131,
+                        "endColumn": 46,
+                        "endOffset": 173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 70,
+                    "endOffset": 168
+                },
+                "from": {
+                    "file": "C:\\Users\\susmita\\OneDrive\\android\\AndroidClient (1)\\AndroidClient\\AndroidClient\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            }
+        ]
+    }
+]
