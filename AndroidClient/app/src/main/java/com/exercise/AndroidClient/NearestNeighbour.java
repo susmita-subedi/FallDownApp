@@ -1,10 +1,5 @@
 package com.exercise.AndroidClient;
 
-/**
- * Created by Snehal on 11/16/2016.
- */
-
-
 
 
 
